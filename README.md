@@ -147,8 +147,11 @@ Habilitar autenticação: selecionado
  
 	{   
     "Results": [    
-    465.89092963787937
+    345.1398133732073
     ]    
      }
   
 #### Tem-se, assim, o número previsto de aluguéis de bicicletas, extraído de um modelo que prevê o número de alugueres de bicicletas esperados num determinado dia, com base em características sazonais e meteorológicas.
+
+## Referência:
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
